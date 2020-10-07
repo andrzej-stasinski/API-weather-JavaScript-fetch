@@ -1,0 +1,43 @@
+.App h2 {
+    margin-left: 20px;
+    margin-bottom: 0;  
+}
+.App input {
+    margin: 20px;
+    padding: 10px 20px;
+    border: 2px solid gray;
+    background-color: #fff;
+    transition: .3s;
+    font-size: 20px;
+}
+#result {
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top: 2px dotted grey;
+}
+h3 {
+	font-size: 22px;
+}
+h4 {
+	font-size: 20px;
+}
+h3, h4 {
+    margin: 10px;
+}
+#result h3, #result h4 {
+    font-weight: normal;
+}
+#result em {
+    font-weight: bold;
+}
+#result h3 p, #result h4 p {
+    width: 120px;
+    display:inline-block;
+    margin: 0;
+}
+.kolor1 {
+    color: red;
+}
+.kolor2 {
+    color: blue;
+}
