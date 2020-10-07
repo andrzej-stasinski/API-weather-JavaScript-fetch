@@ -14,7 +14,7 @@ design features
 
 #### image from the page
 
-<img src="screen.png" alt="weather" width="100%"/>
+<img src="screen.png" alt="weather" max-width="100%" />
 
 
 
