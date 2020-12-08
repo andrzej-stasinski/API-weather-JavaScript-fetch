@@ -61,7 +61,6 @@ function ajax(miasto) {
 		}
 		else {
 			// znaleziono miasto
-			// console.log('Jest takie miasto');
 			var dataJSON = {};
 
 			// dataJSON z danymi pogodowymi z data - JSON
